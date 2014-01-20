@@ -1,0 +1,11 @@
+To do:
+
+	-revoir méthode de calcule de trajectoire
+	- graph dynamique joystiques
+	- commenter le code
+	- sequnce du code
+	- supprimer gamepad.js, iframe.html, tester.js, tester.html
+
+
+Attention :
+	- changer l'appel des methodes sérial dans trajectory.js pour le depoiement !!!

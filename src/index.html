@@ -1,0 +1,31 @@
+<script src='gamepadLib.js'></script>
+<script src='socketCom.js'></script>
+<script src="/socket.io/socket.io.js"></script>
+<link href='styles.css' rel='stylesheet'></link>
+
+<h1>
+  Gamepad Controller
+</h1>
+
+
+<p id="axis0">0</p>
+<p id="axis1">0</p>
+<p id="axis3">0</p>
+<p id="axis4">0</p>
+
+
+<p><input type="button" value="Avance !" id="forward" /></p>
+<p><input type="button" value="Recule !" id="backward" /></p>
+<p><input type="button" value="Gauche !" id="left" /></p>
+<p><input type="button" value="Droite !" id="right" /></p>
+<p><input type="button" value="JSON !" id="message" /></p>
+
+
+
+
+<script>
+var socket = io.connect(document.URL);
+  gamepadSupport.init();
+</script>
+
+

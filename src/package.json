@@ -1,0 +1,8 @@
+{
+  "author": "Benjamin OLIVIER",
+  "name": "projetRobot",
+  "description": "Controle d'un robot basé sur le BeagleBone Black",
+  "version": "0.1",
+  "repository": {
+    "url": "https://github.com/benji13/ProjetRobot"
+ }
