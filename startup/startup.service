@@ -1,5 +1,5 @@
 [Unit]
-Description=Demmarrage du port UART1
+Description=Demmarrage du port UART1 et de l’application nodejs
 
 [Service]
 ExecStart = /home/root/startup.sh
