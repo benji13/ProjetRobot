@@ -1,0 +1,8 @@
+[Unit]
+Description=Demmarrage du port UART1
+
+[Service]
+ExecStart = /home/root/startup.sh
+
+[Install]
+WantedBy=multi-user.target
