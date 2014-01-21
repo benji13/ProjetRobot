@@ -45,13 +45,13 @@ public class MainActivity extends ActionBarActivity implements SensorEventListen
                 sensorManager.getDefaultSensor(Sensor.TYPE_ACCELEROMETER),
                 SensorManager.SENSOR_DELAY_NORMAL);
 
-//        try {
-//            client = SocketIOClient.connect(AsyncHttpClient.getDefaultInstance(), "http://192.168.100.100:8080/", null).get();
-//        } catch (InterruptedException e) {
-//            e.printStackTrace();
-//        } catch (ExecutionException e) {
-//            e.printStackTrace();
-//        }
+        try {
+            client = SocketIOClient.connect(AsyncHttpClient.getDefaultInstance(), "http://192.168.100.101:8080/", null).get();
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        } catch (ExecutionException e) {
+            e.printStackTrace();
+        }
 
 		/*	More sensor speeds (taken from api docs)
 		    SENSOR_DELAY_FASTEST get sensor data as fast as possible
@@ -77,9 +77,9 @@ public class MainActivity extends ActionBarActivity implements SensorEventListen
             yCoor.setText("Y: "+y);
 
 
-//            if(previousX != x || previousY != y){
-//                client.emit("{\"type\": \"control\",\"direction\": \"F\",\"speed\": " + x +",\"turn\": " + y + "}", (Acknowledge) null);
-//            }
+            if(previousX != x || previousY != y){
+                client.emit("{\"type\": \"control\",\"direction\": \"F\",\"speed\": " + x +",\"turn\": " + y + "}", (Acknowledge) null);
+            }
         }
     }
 

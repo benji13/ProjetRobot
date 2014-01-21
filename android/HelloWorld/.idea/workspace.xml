@@ -83,10 +83,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="MainActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/App/src/main/java/com/example/app/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="65" column="0" selection-start="2107" selection-end="2107" vertical-scroll-proportion="0.0" vertical-offset="944" max-vertical-offset="1455">
+            <state line="87" column="0" selection-start="2653" selection-end="2653" vertical-scroll-proportion="1.2700588" vertical-offset="476" max-vertical-offset="1275">
               <folding />
             </state>
           </provider>
@@ -94,13 +94,13 @@
       </file>
       <file leaf-file-name="activity_main.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/App/src/main/res/layout/activity_main.xml">
-          <provider selected="true" editor-type-id="android-designer">
-            <state />
-          </provider>
           <provider editor-type-id="text-editor">
             <state line="21" column="15" selection-start="662" selection-end="662" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="435">
               <folding />
             </state>
+          </provider>
+          <provider selected="true" editor-type-id="android-designer">
+            <state />
           </provider>
         </entry>
       </file>
@@ -113,10 +113,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="build.gradle" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/App/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="18" selection-start="80" selection-end="80" vertical-scroll-proportion="0.11741683" vertical-offset="0" max-vertical-offset="675">
+            <state line="4" column="18" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="675">
               <folding />
             </state>
           </provider>
@@ -858,8 +858,8 @@
       <list>
         <option value="$PROJECT_DIR$/App/build.gradle" />
         <option value="$PROJECT_DIR$/App/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/App/src/main/java/com/example/app/MainActivity.java" />
         <option value="$PROJECT_DIR$/App/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/App/src/main/java/com/example/app/MainActivity.java" />
       </list>
     </option>
   </component>
@@ -909,6 +909,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1073,8 +1075,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1106,6 +1106,26 @@
       <setting name="debug" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
     <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -1126,26 +1146,6 @@
           </MavenRunnerParameters>
         </option>
       </MavenSettings>
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
     <configuration default="true" type="GriffonRunConfigurationType" factoryName="Griffon">
@@ -1178,19 +1178,6 @@
       </ExternalSystemSettings>
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -1216,6 +1203,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -1402,13 +1402,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/App/src/main/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider editor-type-id="text-editor">
         <state line="21" column="15" selection-start="662" selection-end="662" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="435">
           <folding />
         </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/App/src/main/AndroidManifest.xml">
@@ -1433,13 +1433,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/App/src/main/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider editor-type-id="text-editor">
         <state line="21" column="15" selection-start="662" selection-end="662" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="435">
           <folding />
         </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/App/src/main/AndroidManifest.xml">
@@ -1485,13 +1485,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/App/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="33" column="14" selection-start="930" selection-end="930" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/App/src/main/AndroidManifest.xml">
@@ -1521,13 +1521,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/App/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="33" column="14" selection-start="930" selection-end="930" vertical-scroll-proportion="0.0" vertical-offset="41" max-vertical-offset="585">
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/App/src/main/AndroidManifest.xml">
@@ -1701,21 +1701,14 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/App/src/main/java/com/example/app/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="0" selection-start="2107" selection-end="2107" vertical-scroll-proportion="0.0" vertical-offset="430" max-vertical-offset="1275">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/App/src/main/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider editor-type-id="text-editor">
         <state line="21" column="15" selection-start="662" selection-end="662" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
           <folding />
         </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/App/src/main/AndroidManifest.xml">
@@ -1727,7 +1720,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/App/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="18" selection-start="80" selection-end="80" vertical-scroll-proportion="0.11741683" vertical-offset="0" max-vertical-offset="675">
+        <state line="4" column="18" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/src/main/java/com/example/app/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="87" column="0" selection-start="2653" selection-end="2653" vertical-scroll-proportion="1.2700588" vertical-offset="476" max-vertical-offset="1275">
           <folding />
         </state>
       </provider>
