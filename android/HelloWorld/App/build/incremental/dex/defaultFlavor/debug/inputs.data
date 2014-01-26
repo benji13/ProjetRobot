@@ -1,0 +1,35 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1390310152000 1624 92aa02341f76411b69c63ee01a5b570529dd229d /Users/Benjamin/Documents/Dev/projet_arlem/ProjetRobot/android/HelloWorld/App/build/classes/defaultFlavor/debug/com/example/app/R$layout.class
+1390310152000 9069 681ceed559bcc531732e92bec0e9ad4eed77d9c6 /Users/Benjamin/Documents/Dev/projet_arlem/ProjetRobot/android/HelloWorld/App/build/classes/defaultFlavor/debug/com/example/app/R$style.class
+1390375916000 3294 72be84d93833b3f4b1b12cf86395788e5dff6cf9 /Users/Benjamin/Documents/Dev/projet_arlem/ProjetRobot/android/HelloWorld/App/build/classes/defaultFlavor/debug/com/example/app/MainActivity.class
+1390310152000 4915 7c1a48b98311ff92893325ceb5b6022c880a6ba9 /Users/Benjamin/Documents/Dev/projet_arlem/ProjetRobot/android/HelloWorld/App/build/classes/defaultFlavor/debug/com/example/app/R$attr.class
+1390310152000 1589 e61b6e37f178b1762dec99bbc38abeed219413ee /Users/Benjamin/Documents/Dev/projet_arlem/ProjetRobot/android/HelloWorld/App/build/classes/defaultFlavor/debug/android/support/v7/appcompat/R$layout.class
+1390310152000 5187 cdd04be10f47584899031e7370005ac26696f7ed /Users/Benjamin/Documents/Dev/projet_arlem/ProjetRobot/android/HelloWorld/App/build/classes/defaultFlavor/debug/com/example/app/R$drawable.class
+1390310152000 629 4e71ee1f38a344ae8c00bcbbc43c46fbbe116806 /Users/Benjamin/Documents/Dev/projet_arlem/ProjetRobot/android/HelloWorld/App/build/classes/defaultFlavor/debug/android/support/v7/appcompat/R$anim.class
+1387983326000 629518 afee690af14bd2c32d400cdf78e746fd45c386fa /Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/19.0.0/support-v4-19.0.0.jar
+1390310152000 460 2d46de141fef73251f4710afcba020a10acdf614 /Users/Benjamin/Documents/Dev/projet_arlem/ProjetRobot/android/HelloWorld/App/build/classes/defaultFlavor/debug/com/example/app/BuildConfig.class
+1390310152000 1019 e0c7110299be16f0b1e5284f23b0d3e833a33b76 /Users/Benjamin/Documents/Dev/projet_arlem/ProjetRobot/android/HelloWorld/App/build/classes/defaultFlavor/debug/android/support/v7/appcompat/R.class
+1390310152000 406 0470bfad8a9e344088211ab32241820157637f44 /Users/Benjamin/Documents/Dev/projet_arlem/ProjetRobot/android/HelloWorld/App/build/classes/defaultFlavor/debug/com/example/app/R$integer.class
+1390310152000 1208 2565e5e2318528324890bcf5e0abec6dd04f9953 /Users/Benjamin/Documents/Dev/projet_arlem/ProjetRobot/android/HelloWorld/App/build/classes/defaultFlavor/debug/com/example/app/R$string.class
+1390310152000 763 492ea59f0e772236e98c6452913a7c3074e842a3 /Users/Benjamin/Documents/Dev/projet_arlem/ProjetRobot/android/HelloWorld/App/build/classes/defaultFlavor/debug/android/support/v7/appcompat/R$bool.class
+1390310152000 1336 2743b9de6ab3708933870752de927ca4ea386b2e /Users/Benjamin/Documents/Dev/projet_arlem/ProjetRobot/android/HelloWorld/App/build/classes/defaultFlavor/debug/android/support/v7/appcompat/R$dimen.class
+1390310152000 445 cc00fd6e52fd1ea31f12b5b744be16bf90586e7f /Users/Benjamin/Documents/Dev/projet_arlem/ProjetRobot/android/HelloWorld/App/build/classes/defaultFlavor/debug/android/support/v7/appcompat/R$integer.class
+1390310152000 2614 06cfcd936df2eda72585ba2eb0f4888541a854a1 /Users/Benjamin/Documents/Dev/projet_arlem/ProjetRobot/android/HelloWorld/App/build/classes/defaultFlavor/debug/com/example/app/R$id.class
+1390310152000 379 59b76c8a1704fd7fd215d1ef9581ceec91c55aa4 /Users/Benjamin/Documents/Dev/projet_arlem/ProjetRobot/android/HelloWorld/App/build/classes/defaultFlavor/debug/com/example/app/R$menu.class
+1390310152000 6222 afaa43b78872662ff9e987d309ed1f5ee62cfc04 /Users/Benjamin/Documents/Dev/projet_arlem/ProjetRobot/android/HelloWorld/App/build/classes/defaultFlavor/debug/com/example/app/R$styleable.class
+1390310152000 4954 0ad8d623118ca4caf48788306f9a7412861d3a98 /Users/Benjamin/Documents/Dev/projet_arlem/ProjetRobot/android/HelloWorld/App/build/classes/defaultFlavor/debug/android/support/v7/appcompat/R$attr.class
+1390310152000 9076 3843db482dd049d0c8a461171baa0b55b77295fa /Users/Benjamin/Documents/Dev/projet_arlem/ProjetRobot/android/HelloWorld/App/build/classes/defaultFlavor/debug/android/support/v7/appcompat/R$style.class
+1390310152000 876 6e1aa3c1b8c88d31b9427855006ed6029dd47e00 /Users/Benjamin/Documents/Dev/projet_arlem/ProjetRobot/android/HelloWorld/App/build/classes/defaultFlavor/debug/com/example/app/R.class
+1390310152000 724 30fd91082e3153db4e7a56976444adf8214d2c44 /Users/Benjamin/Documents/Dev/projet_arlem/ProjetRobot/android/HelloWorld/App/build/classes/defaultFlavor/debug/com/example/app/R$bool.class
+1390310152000 590 90d9a5a629c41d26b2caff7ec51877979af3fab3 /Users/Benjamin/Documents/Dev/projet_arlem/ProjetRobot/android/HelloWorld/App/build/classes/defaultFlavor/debug/com/example/app/R$anim.class
+1389261534000 423826 0b968bb3aed66341d3a8f3dd9899ebe2ad2d30db /Users/Benjamin/Documents/Dev/projet_arlem/ProjetRobot/android/HelloWorld/App/libs/androidasync-1.2.1.jar
+1390310152000 6261 84691dae0512879c7afbb2695c7bf4b384b15195 /Users/Benjamin/Documents/Dev/projet_arlem/ProjetRobot/android/HelloWorld/App/build/classes/defaultFlavor/debug/android/support/v7/appcompat/R$styleable.class
+1390310152000 555 059d7f11792c6143870973c291c086bf2505c541 /Users/Benjamin/Documents/Dev/projet_arlem/ProjetRobot/android/HelloWorld/App/build/classes/defaultFlavor/debug/com/example/app/R$color.class
+1390310152000 1395 6696a11d1faee8f188a72afe472130a43c96febc /Users/Benjamin/Documents/Dev/projet_arlem/ProjetRobot/android/HelloWorld/App/build/classes/defaultFlavor/debug/com/example/app/R$dimen.class
+1390310152000 1141 81eda5d57a33c0a4b0ac5e7a4f97823ba60e5818 /Users/Benjamin/Documents/Dev/projet_arlem/ProjetRobot/android/HelloWorld/App/build/classes/defaultFlavor/debug/android/support/v7/appcompat/R$string.class
+1390310152000 594 717708861968854b870193da8b07157ea78378eb /Users/Benjamin/Documents/Dev/projet_arlem/ProjetRobot/android/HelloWorld/App/build/classes/defaultFlavor/debug/android/support/v7/appcompat/R$color.class
+1390310152000 2556 b40a3b04e40244b73a77e0e64468979cd1846116 /Users/Benjamin/Documents/Dev/projet_arlem/ProjetRobot/android/HelloWorld/App/build/classes/defaultFlavor/debug/android/support/v7/appcompat/R$id.class
+1390310152000 5191 52c1fba250f8eb42eaaf7b9805f1cdac62d166ac /Users/Benjamin/Documents/Dev/projet_arlem/ProjetRobot/android/HelloWorld/App/build/classes/defaultFlavor/debug/android/support/v7/appcompat/R$drawable.class
+1390208197000 352604 eb69b5c2e53e59d82f7439f3217f46f9d98f0c89 /Users/Benjamin/Documents/Dev/projet_arlem/ProjetRobot/android/HelloWorld/App/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/classes.jar
