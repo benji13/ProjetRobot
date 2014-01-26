@@ -2,6 +2,9 @@
 	Classe pour la gestion de la trajectoire du robot.
 	Calcule des valeurs à envoyer sur chacun des moteurs
 	Envoi des données à la classe serialCom.js
+
+    OLIVIER Benjamin
+
 */
 
 var	serial = require("./serialControl.js")

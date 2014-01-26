@@ -2,6 +2,9 @@
     Classe de gestion de la liaison série avec les controlleurs moteurs
     Port : /dev/ttyO1
     BaudRate: 115200
+
+    OLIVIER Benjamin
+
 */
 
 

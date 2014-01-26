@@ -1,6 +1,9 @@
 /*
 	Classe pour parser le fichier JSON émit par le client.
 	Appel des fonctions adéquates en fonction du type de message
+
+	OLIVIER Benjamin
+
 */
 
 var traj = require("./trajectory.js");

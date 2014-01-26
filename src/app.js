@@ -1,5 +1,7 @@
 /*
     Application principale du projet Robot
+
+    OLIVIER Benjamin
 */
 
 

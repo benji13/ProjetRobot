@@ -1,5 +1,8 @@
 /*
 	Classe de test pour imiter une connexion série	
+
+    OLIVIER Benjamin
+
 */
 
 function viewCommand(value){

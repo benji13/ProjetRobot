@@ -46,7 +46,7 @@ public class MainActivity extends ActionBarActivity implements SensorEventListen
                 SensorManager.SENSOR_DELAY_NORMAL);
 
         try {
-            client = SocketIOClient.connect(AsyncHttpClient.getDefaultInstance(), "http://192.168.100.101:8080/", null).get();
+            client = SocketIOClient.connect(AsyncHttpClient.getDefaultInstance(), "http://192.168.100.100 q:8080/", null).get();
         } catch (InterruptedException e) {
             e.printStackTrace();
         } catch (ExecutionException e) {
